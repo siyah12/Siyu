@@ -4,7 +4,7 @@ module.exports = {
   config: {
     name: "owner",
     version: 2.0,
-    author: "〲 T A N J I L ツ",
+    author: "〲 siyuu ツ",
     longDescription: "info about bot and owner",
     category: "Special",
     guide: {
@@ -24,12 +24,12 @@ module.exports = {
     
     const a = "-`ღ´ᵞᴼᵁᴿ 🌷𝐁𝐁'𝐗᯽";
     const b = "."; // Prefix
-    const c = "〲 T A N J I L ツ";
+    const c = "〲 SIYUU ツ";
     const e = "Male";
-    const f = "𝟏𝟖 ±";
+    const f = "KOMU NH";
     const g = "𝐒𝐢𝐧𝐠𝐥𝐞";
-    const h = "𝐈𝐧𝐭𝐞𝐫 𝟐";
-    const i = "𝐃𝐡𝐚𝐤𝐚";
+    const h = "KOMU NH ";
+    const i = "MYMENSING";
     const d = "N/A";
 
     message.reply({ 
