@@ -8,7 +8,7 @@ module.exports = {
     name: "help2",
     aliases: ["h", "help", "help2"],
     version: "2.0",
-    author: "T A N J I L 🎀",
+    author: "siyuuuu🎀",
     countDown: 1,
     role: 0,
     shortDescription: {
@@ -32,7 +32,7 @@ module.exports = {
     const prefix = await getPrefix(event.threadID);
     const totalCommands = commands.size;
     const botName = "〲٭⃝✨⃝YOUR 卝 চুন্নি ⃝✨⃝٭";
-    const ownerName = "T A N J I L 🎀";
+    const ownerName = "siyuuuuu 🎀";
     const perPage = 6;
 
     if (args.length === 0 || !isNaN(args[0])) {
