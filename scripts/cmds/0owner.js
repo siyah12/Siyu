@@ -4,7 +4,7 @@ module.exports = {
   config: {
     name: "owner",
     version: 2.0,
-    author: "〲 siyuu ツ",
+    author: "〲 siyuuu ツ",
     longDescription: "info about bot and owner",
     category: "Special",
     guide: {
