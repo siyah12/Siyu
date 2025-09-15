@@ -18,10 +18,10 @@ module.exports = {
   onStart: async function ({ api, event, args }) {
     // Replace with your info
     const userInfo = {
-      name: " 𝐓 𝐀 𝐍 𝐉 𝐈 𝐋 ᯽",  // Replace with your name
-      age: "𝟏𝟖±",           // Replace with your age
-      location: "𝐃𝐡𝐚𝐤𝐚",    // Replace with your location
-      bio: "Bot & JavaScript Lover | Always Learning!", // Replace with your bio
+      name: " SIYUU ᯽",  // Replace with your name
+      age: "",           // Replace with your age
+      location: "mymensing",    // Replace with your location
+      bio: " flirting & creator !", // Replace with your bio
       botName: "𝐁𝐨𝐥𝐛𝐨 𝐧𝐚", // Replace with bot's name
       botVersion: "1.0",    // Replace with bot's version
     };
