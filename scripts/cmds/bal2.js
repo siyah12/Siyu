@@ -1,7 +1,7 @@
 module.exports = {
   config: {
     name: "bal2",
-    aliases: ["bal2"],
+    aliases: ["bal"],
     version: "1.0",
     author: "T A N J I L ",
     role: 2, // Admin only
